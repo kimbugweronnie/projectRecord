@@ -1,2 +1,2 @@
 # projectRecord
-A simple CRUD application for projects and project managers
+A simple  C# CRUD application 
